@@ -1,5 +1,5 @@
 ### Hi there, I'm Jéssica Lemes! 👋
-✨ Welcome to my Github 😄
+✨ Welcome to my Github ✨
 
 - 🇧🇷 Born in São Paulo, Brazil
 - 🔭 I’m currently working on a Python project
