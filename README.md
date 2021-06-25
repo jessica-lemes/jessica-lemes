@@ -6,4 +6,4 @@
 - 🌱 I’m currently learning Java and Kotlin
 - 👯 I’m looking to collaborate on Android Dev community
 - 📫 How to reach me: www.linkedin.com/in/jessica-moraes-lemes
-- 😄 Fun fact: I'm a nurse 💉 and I love soccer ⚽️
+- 📱  My apps on Google Play: https://play.google.com/store/apps/developer?id=J%C3%A9ssica+Lemes
