@@ -18,7 +18,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Jéssica-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jéssica-Pycharm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
-  <img align="center" alt="Jéssica-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+  <img align="center" alt="Jéssica-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/kotlin-original.svg">
   <img align="center" alt="Jéssica-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="Jéssica-Intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
 </div>
