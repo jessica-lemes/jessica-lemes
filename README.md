@@ -8,8 +8,6 @@
 - 📫 How to reach me: www.linkedin.com/in/jessica-moraes-lemes
 - 📱  My apps on Google Play: https://play.google.com/store/apps/developer?id=J%C3%A9ssica+Lemes
 
-
-### Hi there, I'm Jéssica Lemes! 👋 
  <div>
   <a href="https://github.com/jessica-lemes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jessica-lemes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
