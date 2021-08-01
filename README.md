@@ -2,9 +2,9 @@
 ✨ Welcome to my Github ✨
 
 - 🇧🇷 Born in São Paulo, Brazil
-- 🔭 I’m currently working on a Android project
-- 🌱 I’m currently learning Java and Kotlin
-- 👯 I’m looking to collaborate on Android Dev community
+- 🔭 I’m currently studing Systems Analisys focused in mobile development 
+- 🌱 I’m currently learning Android development with Android studio and Kotlin language
+- 👯 I’m looking to collaborate on Android projects
 - 📫 How to reach me: www.linkedin.com/in/jessica-moraes-lemes
 - 📱  My apps on Google Play: https://play.google.com/store/apps/developer?id=J%C3%A9ssica+Lemes
 
@@ -23,11 +23,11 @@
   
   ##
  
-<div> 
-  <a href="https://www.instagram.com/jessica_moraes_lemes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jessicacmoraes@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+<div>   
   <a href="https://www.linkedin.com/in/jessica-moraes-lemes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://play.google.com/store/apps/developer?id=J%C3%A9ssica+Lemes" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:jessicacmoraes@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/jessica_moraes_lemes/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
  
   
