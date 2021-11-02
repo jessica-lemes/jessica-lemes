@@ -2,7 +2,7 @@
 ✨ Welcome to my Github ✨
 
 - 🇧🇷 Born in São Paulo, Brazil
-- 🔭 I’m currently studying Systems Analisys focused in mobile development 
+- 🔭 I’m currently studying Systems Analisys 
 - 🌱 I’m currently learning Android development with Android studio and Kotlin language
 - 👯 I’m looking to collaborate on Android projects
 - 📫 How to reach me: www.linkedin.com/in/jessica-moraes-lemes
