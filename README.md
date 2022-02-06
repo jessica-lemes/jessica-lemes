@@ -3,8 +3,8 @@
 
 - 🇧🇷 Born in São Paulo, Brazil
 - 🔭 I’m currently studying Systems Analisys 
-- 🌱 I’m currently learning Android development with Android studio and Kotlin language
-- 👯 I’m looking to collaborate on Android projects
+- 🌱 I’m currently learning mobile development with Android studio, Kotlin and Dart languages
+- 👯 I’m looking to collaborate on mobile projects
 - 📫 How to reach me: www.linkedin.com/in/jessica-moraes-lemes
 - 📱  My apps on Google Play: https://play.google.com/store/apps/developer?id=J%C3%A9ssica+Lemes
 
